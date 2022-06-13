@@ -38,6 +38,7 @@ call plug#begin('~/.config/nvim/plugged')
 
 " plugins will go here
 Plug 'https://github.com/joshdick/onedark.vim'
+Plug 'itchyny/lightline.vim'
 
 call plug#end()
 
